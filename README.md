@@ -25,7 +25,7 @@ Write your own printf function.
 
 ## Realised by
 
-**Mohammed Amine Mounjid & Safae El Bakkaly**
+**hussein bouik**
 
 ## License
 
